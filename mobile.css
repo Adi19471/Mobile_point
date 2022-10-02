@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.bgs-wh {
+    background-color: chartreuse;
+}
+
+.texts-white {
+    color: white;
+}
+
+.bg-light-white {
+    background-color: aliceblue;
+}
+
+.carousel-item {
+    width: 50%;
+    border-radius: 50%;
+}
+
+#cards img {
+    width: 20%;
+    height: 20vh;
+    border-radius: 50%;
+}
